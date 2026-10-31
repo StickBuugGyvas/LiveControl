@@ -1,6 +1,6 @@
 # LiveControl
 
-**LiveControl** is a desktop application for managing OBS scenes and cameras during live shows, song contests, and Minecraft events (Eurovision-style productions).
+**LiveControl** is a desktop application for managing OBS scenes and cameras during live shows, song contests, and just lives.
 
 It connects to OBS via WebSocket, supports LiveEdit OSC automation, custom control buttons, project saving, and a clean multiview interface.
 
@@ -8,7 +8,7 @@ It connects to OBS via WebSocket, supports LiveEdit OSC automation, custom contr
 
 ## Features
 
--  Control up to 10 cameras (CAM1–CAM10)
+-  Control up to every scene/cams you have
 -  Automatic scene switching via LiveEdit OSC
 -  Manual / Auto mode
 -  Emergency Break scene
