@@ -1,0 +1,4 @@
+customtkinter
+obs-websocket-py
+python-osc
+pillow

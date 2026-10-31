@@ -1,0 +1,23 @@
+{
+  "name": "рер",
+  "created": "2026-10-30T21:24:29.938251",
+  "obs": {
+    "host": "localhost",
+    "port": 4455,
+    "password": ""
+  },
+  "emergency_scene": "",
+  "custom_buttons": [],
+  "cameras": {
+    "1": "CAM1",
+    "2": "CAM2",
+    "3": "CAM3",
+    "4": "CAM4",
+    "5": "CAM5",
+    "6": "CAM6",
+    "7": "CAM7",
+    "8": "CAM8",
+    "9": "CAM9",
+    "10": "CAM10"
+  }
+}

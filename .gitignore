@@ -1,0 +1,29 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyCharm
+.idea/
+
+# Конфиги с паролями (если не хочешь светить)
+# config.json
+
+# Система
+.DS_Store
+Thumbs.db
+
+# Сборка exe (потом)
+build/
+dist/
+*.spec
+
+# Проекты пользователей (личные)
+# projects/

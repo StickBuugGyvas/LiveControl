@@ -1,0 +1,31 @@
+{
+  "name": "ппп",
+  "created": "2026-10-30T20:59:19.232311",
+  "obs": {
+    "host": "localhost",
+    "port": 4455,
+    "password": "111222333444"
+  },
+  "emergency_scene": "EMERGENCY BREAK",
+  "custom_buttons": [],
+  "cameras": {
+    "1": "CAM1",
+    "2": "CAM2",
+    "3": "CAM3",
+    "4": "CAM4",
+    "5": "CAM5",
+    "6": "CAM6",
+    "7": "CAM7",
+    "8": "CAM8",
+    "9": "CAM9",
+    "10": "CAM10"
+  },
+  "osc": {
+    "listen_ip": "0.0.0.0",
+    "listen_port": 3333
+  },
+  "discord_sources": [
+    "DISCORD"
+  ],
+  "manual_mode": true
+}
